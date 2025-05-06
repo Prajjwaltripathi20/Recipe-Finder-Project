@@ -151,23 +151,23 @@ const Home = () => {
     {
       id: 1,
       quote: "Recipedia has transformed my cooking journey! The detailed recipes and step-by-step instructions make it so easy to create restaurant-quality dishes at home.",
-      author: "Priya Sharma",
+      author: "Aryan Bhargava",
       role: "Food Blogger & Chef",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+      image: "https://media.licdn.com/dms/image/v2/D5603AQFIfef4GlGi-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725464044698?e=1752105600&v=beta&t=wlGabV8jY9BaQ-gVD9EV4BeFJDYOwQi8v9gKLOpzoFU"
     },
     {
       id: 2,
       quote: "As a working professional, I love how Recipedia helps me plan my meals. The quick and healthy recipes have made my life so much easier!",
-      author: "Rahul Patel",
+      author: "Sanath Waraikar",
       role: "Software Engineer",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQEUbvbX8FxPRg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726609555300?e=1752105600&v=beta&t=1EfinOZ9LinyvNdm-xjfZx8w4TFWJLtrZzZkSmpGLm8"
     },
     {
       id: 3,
       quote: "The variety of Indian and international recipes on Recipedia is amazing. I've learned so many new cooking techniques and my family loves the results!",
-      author: "Ananya Gupta",
+      author: "Mukund Mangla",
       role: "Home Chef",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+      image: "https://media.licdn.com/dms/image/v2/D4E03AQFlhrTSVFbBbQ/profile-displayphoto-shrink_400_400/B4EZUU2ybPG0Ag-/0/1739811662052?e=1752105600&v=beta&t=nL3fyHjvl0dQAhefH8wdOgGEGk_2cyctLvYaA3l2SXw"
     }
   ];
 
